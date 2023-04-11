@@ -1,3 +1,9 @@
+# Simple design in react Calculator
+
+This project addresses some simple concepts in React as a way to apply acquired knowledge.
+
+The project can be used at the link: https://calculadoraheitor.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
